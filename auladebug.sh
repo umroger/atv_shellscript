@@ -1,4 +1,5 @@
 #!/bin/bash
+#teste
 CHAVE_CRIAR=0
 CHAVE_EXCLUIR=0
 CHAVE_LISTAR=0
